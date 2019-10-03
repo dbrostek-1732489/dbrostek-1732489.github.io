@@ -1,0 +1,52 @@
+body {
+	background-color: yellow;
+}
+h1 {
+	color: purple;
+	font-family: verdana;
+}
+p {
+	color: orange;
+	font-family: wingdings
+}
+img {
+	border: 10px solid black;
+}
+h2 {
+	color: green;
+	font-family: calibri;
+	border: 2px dotted black;
+}
+#a {
+	color: green;
+	font-family: times new roman;
+	border: 2px dotted black;
+}
+#b {
+	border-radius: 10px;
+	background: #FF00FF;
+	padding: 10px;
+	width: 100px;
+	height: 100px;
+	font-family: arial;
+}
+#c {
+	float:right;
+}
+#d {
+	color: white;
+	border: 2px solid blue;
+	background: black;
+	font-family:georgia;
+}
+.container {
+  position: relative;
+  text-align: center;
+}
+.text-block {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+	
